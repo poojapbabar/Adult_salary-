@@ -1,8 +1,8 @@
-prefix=C:/Users/babar/adult_salary/myenv/Library
-exec_prefix=C:/Users/babar/adult_salary/myenv/Library
-libdir=C:/Users/babar/adult_salary/myenv/Library/lib
-sharedlibdir=C:/Users/babar/adult_salary/myenv/Library/lib
-includedir=C:/Users/babar/adult_salary/myenv/Library/include
+prefix=c:/Users/babar/adult_salary/myenv/Library
+exec_prefix=c:/Users/babar/adult_salary/myenv/Library
+libdir=c:/Users/babar/adult_salary/myenv/Library/lib
+sharedlibdir=c:/Users/babar/adult_salary/myenv/Library/lib
+includedir=c:/Users/babar/adult_salary/myenv/Library/include
 
 Name: zlib
 Description: zlib compression library
